@@ -5,14 +5,14 @@
 <p align="center">
   <picture align="center">
     <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonShevchuk&show_icons=true&hide_title=true&count_private=true&disable_animations=false&theme=github_dark&line_height=33&hide_rank=true"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonShevchuk&hide_title=true&count_private=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonShevchuk&show_icons=true&hide_title=true&count_private=true&disable_animations=false&line_height=33&hide_rank=true"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonShevchuk&hide_title=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonShevchuk&show_icons=true&hide_title=true&count_private=true&disable_animations=false&line_height=33&hide_rank=true" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonShevchuk&hide_title=true&count_private=true" />
   </picture>
   
   <picture align="top">
