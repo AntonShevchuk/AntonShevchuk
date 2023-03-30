@@ -17,13 +17,13 @@
   
   <picture align="top">
     <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonShevchuk&layout=compact&langs_count=10&theme=github_dark"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonShevchuk&hide_title=true&layout=compact&langs_count=10&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonShevchuk&layout=compact&langs_count=10"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonShevchuk&hide_title=true&layout=compact&langs_count=10"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonShevchuk&layout=compact&langs_count=10" />
+    <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonShevchuk&hide_title=true&layout=compact&langs_count=10" />
   </picture>
 </p>
