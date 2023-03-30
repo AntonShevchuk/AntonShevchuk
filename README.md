@@ -15,7 +15,7 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonShevchuk&show_icons=true&hide_title=true&count_private=true&disable_animations=false&line_height=33&hide_rank=true" />
   </picture>
   
-  <picture>
+  <picture align="top">
     <source 
       srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonShevchuk&layout=compact&langs_count=10&theme=github_dark"
       media="(prefers-color-scheme: dark)"
